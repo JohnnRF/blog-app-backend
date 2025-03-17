@@ -3,6 +3,8 @@
 ## REQUISITOS
 - **JAVA JDK 17**
 - **SQL SERVER**
+## INDICACIONES 
+En caso de que el cliente frontend se ejecute en otro puerto, realizar el cambio por el nuevo puerto en el archivo **CorsConfig.java**
 ## CONFIGURACIÓN DE LA BASE DE DATOS
 1. Crear la base de datos "**blogdb**"
 2. En el archivo **application.properties**
